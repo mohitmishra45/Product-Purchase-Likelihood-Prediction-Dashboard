@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+openai # Optional, for AI-powered summary 
+google-generativeai 
